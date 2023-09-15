@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX6_HotPotato.java" afterDir="false" />
+    <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="grade 100/100">
+      <change afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX7_MathPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX8_BrowserHistoryUpgrade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX6_HotPotato">
-    <configuration name="EX2_SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX2_SimpleCalculator" />
-      <module name="Java-Advanced-September-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit1_StacksAndQueues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EX8_BrowserHistoryUpgrade">
     <configuration name="EX3_DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX3_DecimalToBinaryConverter" />
       <module name="Java-Advanced-September-2023" />
@@ -105,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EX8_BrowserHistoryUpgrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX8_BrowserHistoryUpgrade" />
+      <module name="Java-Advanced-September-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit1_StacksAndQueues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX8_BrowserHistoryUpgrade" />
         <item itemvalue="Application.EX6_HotPotato" />
         <item itemvalue="Application.EX5_PrinterQueue" />
         <item itemvalue="Application.EX4_MatchingBrackets" />
         <item itemvalue="Application.EX3_DecimalToBinaryConverter" />
-        <item itemvalue="Application.EX2_SimpleCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694787031530</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="grade 100/100">
+      <created>1694792376017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694792376017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,17 +191,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nomessage" />
     <MESSAGE value="exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX6_HotPotato.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="grade 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="grade 100/100" />
   </component>
 </project>
