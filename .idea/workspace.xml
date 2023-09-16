@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="grade 0/100">
-      <change afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX/EX1_ReerseNumbersWithAStack.java" afterDir="false" />
+    <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX/EX1_ReverseNumbersWithAStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX/EX1_ReverseNumbersWithAStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +38,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX7_MathPotato">
-    <configuration name="EX4_MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.LAB.EX4_MatchingBrackets" />
+  <component name="RunManager" selected="Application.EX1_ReverseNumbersWithAStack">
+    <configuration name="EX1_ReverseNumbersWithAStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX.EX1_ReverseNumbersWithAStack" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit1_StacksAndQueues.LAB.*" />
+          <option name="PATTERN" value="Unit1_StacksAndQueues.EX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX1_ReverseNumbersWithAStack" />
         <item itemvalue="Application.EX7_MathPotato" />
         <item itemvalue="Application.EX8_BrowserHistoryUpgrade" />
         <item itemvalue="Application.EX6_HotPotato" />
         <item itemvalue="Application.EX5_PrinterQueue" />
-        <item itemvalue="Application.EX4_MatchingBrackets" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694848496477</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=".">
+      <created>1694850985878</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694850985878</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +226,14 @@
     <MESSAGE value="exercise" />
     <MESSAGE value="grade 100/100" />
     <MESSAGE value="grade 0/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="grade 0/100" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="stack" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
