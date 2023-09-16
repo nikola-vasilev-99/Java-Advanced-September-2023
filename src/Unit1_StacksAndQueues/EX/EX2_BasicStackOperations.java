@@ -1,9 +1,6 @@
 package Unit1_StacksAndQueues.EX;
 
-import java.util.ArrayDeque;
-import java.util.Arrays;
-import java.util.Deque;
-import java.util.Scanner;
+import java.util.*;
 
 public class EX2_BasicStackOperations {
     public static void main(String[] args) {
@@ -19,23 +16,14 @@ public class EX2_BasicStackOperations {
             stack.pop();
         }
 
-        int minNum = Integer.MAX_VALUE;
         if (stack.isEmpty()) {
             System.out.println("0");
-            return;
         } else {
             if (stack.contains(findElement)) {
                 System.out.println("true");
-                return;
             } else {
-                while(!stack.isEmpty()) {
-                    int currentNum = stack.pop();
-                    if (currentNum < minNum) {
-                        minNum = currentNum;
-                    }
-                }
+                System.out.println(Collections.min(stack));
             }
         }
-        System.out.println(minNum);
     }
 }
