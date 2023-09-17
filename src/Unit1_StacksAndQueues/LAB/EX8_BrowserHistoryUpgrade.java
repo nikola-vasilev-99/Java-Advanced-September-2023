@@ -10,6 +10,7 @@ public class EX8_BrowserHistoryUpgrade {
         ArrayDeque<String> urlStack = new ArrayDeque<>();
         ArrayDeque<String> forwardUrl = new ArrayDeque<>();
         String currentUrl = "";
+
         while (!input.equals("Home")) {
             if (input.equals("back")) {
                 if (urlStack.size() > 1) {

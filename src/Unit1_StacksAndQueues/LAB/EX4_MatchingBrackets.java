@@ -11,6 +11,7 @@ public class EX4_MatchingBrackets {
         ArrayDeque <Integer> stack = new ArrayDeque<>();
 
         for (int i = 0; i < expression.length(); i++) {
+
             char currentSymbol = expression.charAt(i);
             if (currentSymbol == '(') {
                 stack.push(i);

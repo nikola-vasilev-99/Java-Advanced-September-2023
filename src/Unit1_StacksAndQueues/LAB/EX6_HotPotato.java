@@ -28,6 +28,5 @@ public class EX6_HotPotato {
         }
         String lastKid = kidsQueue.peek();
         System.out.println("Last is " + lastKid);
-
     }
 }

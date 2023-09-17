@@ -22,8 +22,6 @@ public class EX3_DecimalToBinaryConverter {
         while (!stack.isEmpty()) {
             System.out.print(stack.pop());
         }
-
         System.out.println(Integer.toBinaryString(number));
-
     }
 }

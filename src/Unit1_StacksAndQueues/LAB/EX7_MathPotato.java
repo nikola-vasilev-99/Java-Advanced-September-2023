@@ -28,7 +28,6 @@ public class EX7_MathPotato {
             }
         }
         System.out.println("Last is " + kidsQueue.poll());
-
     }
     public static boolean isPrime(int cycle) {
         if (cycle <= 1) {

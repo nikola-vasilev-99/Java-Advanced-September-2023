@@ -26,6 +26,5 @@ public class EX5_PrinterQueue {
             String nextFile = printerQueue.poll();
             System.out.println(nextFile);
         }
-
     }
 }

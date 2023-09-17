@@ -23,6 +23,7 @@ public class EX1_BrowserHistory {
                     System.out.println("no previous URLs");
                 }
             }
+
             input = scanner.nextLine();
         }
     }

@@ -29,5 +29,6 @@ public class EX2_SimpleCalculator {
             }
         }
         System.out.println(stack.peek());
+
     }
 }
