@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX/EX4_BasicQueueOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit1_StacksAndQueues/EX/EX5_BalancedParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX4_BasicQueueOperations">
+  <component name="RunManager" selected="Application.EX5_BalancedParentheses">
     <configuration name="EX1_ReverseNumbersWithAStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX.EX1_ReverseNumbersWithAStack" />
       <module name="Java-Advanced-September-2023" />
@@ -90,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX7_MathPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.LAB.EX7_MathPotato" />
+    <configuration name="EX5_BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX.EX5_BalancedParentheses" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit1_StacksAndQueues.LAB.*" />
+          <option name="PATTERN" value="Unit1_StacksAndQueues.EX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX5_BalancedParentheses" />
         <item itemvalue="Application.EX4_BasicQueueOperations" />
         <item itemvalue="Application.EX3_MaximumElement" />
         <item itemvalue="Application.EX2_BasicStackOperations" />
         <item itemvalue="Application.EX1_ReverseNumbersWithAStack" />
-        <item itemvalue="Application.EX7_MathPotato" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694966614273</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="-">
+      <created>1694969021829</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694969021829</updated>
+    </task>
+    <task id="LOCAL-00018" summary="-">
+      <created>1694969140555</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694969140555</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
