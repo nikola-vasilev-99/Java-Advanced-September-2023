@@ -10,10 +10,31 @@ public class EX1_CompareMatrices {
         int [][] firstMatrix = readArray(scanner);
         int [][] secondMatrix = readArray(scanner);
 
-        System.out.println();
+        //първо проверяваме дали двете матрици са с еднакви дължини
+        boolean areEqual = firstMatrix.length == secondMatrix.length;
 
+        if (areEqual) {
+            for (int r = 0; r < firstMatrix.length; r++) {
+                int [] firstArray = firstMatrix[r];
+                int [] secondArray = secondMatrix[r];
 
-
+                //сега сравняваме дължините на вътрешните масиви на съответния индекс от матрицата
+                areEqual = firstArray.length == secondArray.length;
+                if (areEqual) {
+                    // ако дължините са еднакви, започваме да проверяваме елемент по елемент
+                    for (int el = 0; el < firstArray.length; el++) {
+                        if (firstArray[el] != secondArray[el]) {
+                            areEqual = false;
+                        }
+                    }
+                }
+            }
+        }
+        if (areEqual) {
+            System.out.println("equal");
+        } else {
+            System.out.println("not equal");
+        }
 
     }
     private static int [][] readArray(Scanner scanner) {
