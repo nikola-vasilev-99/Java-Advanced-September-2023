@@ -26,14 +26,13 @@ public class EX6_PrintDiagonalsOfSquareMatrix {
         }
 
         // second diagonal 3-0 2-1 1-2 0-3
-
-        for (int i = matrix.length - 1; i >= 0 ; i--) {
-            for (int j = 0; j < matrix.length; j++) {
-                int currentNum = matrix[i][j];
-                secondDiagonalArr[j] = currentNum;
-                i = i - 1;
-            }
+        int row = matrix.length - 1;
+        for (int j = 0; j < matrix.length; j++) {
+            int currentNum = matrix[row][j];
+            secondDiagonalArr[j] = currentNum;
+            row -= 1;
         }
+
         System.out.println(Arrays.toString(firstDiagonalArr).replaceAll("[\\[\\],]", ""));
         System.out.println(Arrays.toString(secondDiagonalArr).replaceAll("[\\[\\],]", ""));
     }
