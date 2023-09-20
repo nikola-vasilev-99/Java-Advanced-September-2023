@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/LAB/EX3_withCHarArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/LAB/EX4_SumMatrixElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX3_withCHarArray">
+  <component name="RunManager" selected="Application.EX4_SumMatrixElements">
     <configuration name="EX1_CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.LAB.EX1_CompareMatrices" />
       <module name="Java-Advanced-September-2023" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX7_SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit1_StacksAndQueues.EX.EX7_SimpleTextEditor" />
+    <configuration name="EX4_SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.LAB.EX4_SumMatrixElements" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit1_StacksAndQueues.EX.*" />
+          <option name="PATTERN" value="Unit2_MultidimensionalArrays.LAB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX4_SumMatrixElements" />
         <item itemvalue="Application.EX3_withCHarArray" />
         <item itemvalue="Application.EX3_IntersectionOfMatrices" />
         <item itemvalue="Application.EX2_PositionsOf" />
         <item itemvalue="Application.EX1_CompareMatrices" />
-        <item itemvalue="Application.EX7_SimpleTextEditor" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695214667971</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="-">
+      <created>1695215631891</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1695215631891</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
