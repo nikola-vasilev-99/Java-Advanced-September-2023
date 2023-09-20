@@ -1,6 +1,5 @@
 package Unit2_MultidimensionalArrays.LAB;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class EX3_IntersectionOfMatrices {
