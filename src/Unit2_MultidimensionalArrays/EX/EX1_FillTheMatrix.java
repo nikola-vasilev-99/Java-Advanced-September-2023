@@ -1,6 +1,5 @@
 package Unit2_MultidimensionalArrays.EX;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class EX1_FillTheMatrix {
@@ -33,6 +32,7 @@ public class EX1_FillTheMatrix {
 
     private static void fillPatternA(int[][] matrix) {
         int count = 1;
+        // лектора е разменил рол и кол
         for (int row = 0; row < matrix.length; row++) {
             for (int col = 0; col < matrix[row].length; col++) {
                 matrix[col][row] = count;
@@ -43,15 +43,15 @@ public class EX1_FillTheMatrix {
 
     private static void fillPatternB(int [][] matrix) {
         int count = 1;
-        for (int row = 0; row < matrix.length; row++) {
-            if ((row + 1) % 2 != 0) {
-                for (int col = 0; col < matrix[row].length; col++) {
-                    matrix[col][row] = count;
+        for (int col = 0; col < matrix.length; col++) {
+            if ((col + 1) % 2 != 0) {
+                for (int row = 0; row < matrix[col].length; row++) {
+                    matrix[row][col] = count;
                     count++;
                 }
             } else {
-                for (int col = matrix[row].length - 1; col >= 0; col--) {
-                    matrix[col][row] = count;
+                for (int row = matrix[col].length - 1; row >= 0; row--) {
+                    matrix[row][col] = count;
                     count++;
                 }
             }
