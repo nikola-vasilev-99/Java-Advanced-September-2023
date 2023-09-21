@@ -32,7 +32,8 @@ public class EX1_FillTheMatrix {
 
     private static void fillPatternA(int[][] matrix) {
         int count = 1;
-        // лектора е разменил рол и кол
+        // лектора е разменил рол и кол като наименования
+        //в случая col = row
         for (int row = 0; row < matrix.length; row++) {
             for (int col = 0; col < matrix[row].length; col++) {
                 matrix[col][row] = count;
@@ -43,6 +44,7 @@ public class EX1_FillTheMatrix {
 
     private static void fillPatternB(int [][] matrix) {
         int count = 1;
+        //в случая col = row
         for (int col = 0; col < matrix.length; col++) {
             if ((col + 1) % 2 != 0) {
                 for (int row = 0; row < matrix[col].length; row++) {
