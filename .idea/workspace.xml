@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX2_MatrixOfPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX3_DiagonalDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX1_FillTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX1_FillTheMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX2_MatrixOfPalindromes">
+  <component name="RunManager" selected="Application.EX3_DiagonalDifference">
     <configuration name="EX1_FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.EX.EX1_FillTheMatrix" />
       <module name="Java-Advanced-September-2023" />
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX5_MaximumSumOf2x2Submatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.LAB.EX5_MaximumSumOf2x2Submatrix" />
+    <configuration name="EX3_DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.EX.EX3_DiagonalDifference" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit2_MultidimensionalArrays.LAB.*" />
+          <option name="PATTERN" value="Unit2_MultidimensionalArrays.EX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX3_DiagonalDifference" />
         <item itemvalue="Application.EX2_MatrixOfPalindromes" />
         <item itemvalue="Application.EX1_FillTheMatrix" />
         <item itemvalue="Application.EX8_WrongMeasurements" />
         <item itemvalue="Application.EX6_PrintDiagonalsOfSquareMatrix" />
-        <item itemvalue="Application.EX5_MaximumSumOf2x2Submatrix" />
       </list>
     </recent_temporary>
   </component>
