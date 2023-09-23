@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX6_StringMatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/LAB/EX1_ParkingLot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +46,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX6_StringMatrixRotation">
-    <configuration name="EX2_MatrixOfPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.EX.EX2_MatrixOfPalindromes" />
+  <component name="RunManager" selected="Application.EX1_ParkingLot">
+    <configuration name="EX1_ParkingLot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.LAB.EX1_ParkingLot" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit2_MultidimensionalArrays.EX.*" />
+          <option name="PATTERN" value="Unit3_SetsAndMaps.LAB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX1_ParkingLot" />
         <item itemvalue="Application.EX6_StringMatrixRotation" />
         <item itemvalue="Application.EX5_MatrixShuffling" />
         <item itemvalue="Application.EX4_MaximalSum" />
         <item itemvalue="Application.EX3_DiagonalDifference" />
-        <item itemvalue="Application.EX2_MatrixOfPalindromes" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695384459365</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="-">
+      <created>1695412595480</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1695412595481</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,6 +413,11 @@
           <url>file://$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX2_MatrixOfPalindromes.java</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit3_SetsAndMaps/LAB/EX1_ParkingLot.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
