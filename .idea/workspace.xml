@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/LAB/EX3_VoinaNumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/LAB/EX4_CountRealNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX3_VoinaNumberGame">
+  <component name="RunManager" selected="Application.EX4_CountRealNumbers">
     <configuration name="EX1_ParkingLot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.LAB.EX1_ParkingLot" />
       <module name="Java-Advanced-September-2023" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX5_MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit2_MultidimensionalArrays.EX.EX5_MatrixShuffling" />
+    <configuration name="EX4_CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.LAB.EX4_CountRealNumbers" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit2_MultidimensionalArrays.EX.*" />
+          <option name="PATTERN" value="Unit3_SetsAndMaps.LAB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX4_CountRealNumbers" />
         <item itemvalue="Application.EX3_VoinaNumberGame" />
         <item itemvalue="Application.EX2_SoftUniParty" />
         <item itemvalue="Application.EX1_ParkingLot" />
         <item itemvalue="Application.EX6_StringMatrixRotation" />
-        <item itemvalue="Application.EX5_MatrixShuffling" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695547097858</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="-">
+      <created>1695552678345</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1695552678345</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,6 +433,11 @@
           <url>file://$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX2_MatrixOfPalindromes.java</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit3_SetsAndMaps/LAB/EX4_CountRealNumbers.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
