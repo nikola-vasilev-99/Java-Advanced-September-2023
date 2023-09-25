@@ -16,7 +16,7 @@ public class EX6_ProductShop {
             String shop = array[0];
             String product = array[1];
             double price = Double.parseDouble(array[2]);
-            if (!map.containsKey(shop)) {
+            if (!map.containsKey(shop)) { // = map.putIfAbsent()
                 map.put(shop, new LinkedHashMap<>());
                 map.get(shop).put(product, price);
             } else {
