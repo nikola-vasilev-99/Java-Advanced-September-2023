@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/EX1_UniqueUsernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/EX2_SetsOfElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +46,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX1_UniqueUsernames">
+  <component name="RunManager" selected="Application.EX2_SetsOfElements">
     <configuration name="EX1_UniqueUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX1_UniqueUsernames" />
+      <module name="Java-Advanced-September-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit3_SetsAndMaps.EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX2_SetsOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX2_SetsOfElements" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
@@ -98,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.LAB.Test" />
-      <module name="Java-Advanced-September-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit3_SetsAndMaps.LAB.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX2_SetsOfElements" />
         <item itemvalue="Application.EX1_UniqueUsernames" />
         <item itemvalue="Application.EX9_Largest3Numbers" />
         <item itemvalue="Application.EX8_AcademyGraduation" />
         <item itemvalue="Application.EX7_CitiesByContinentAndCountry" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695711421047</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="-">
+      <created>1695713715989</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1695713715989</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
