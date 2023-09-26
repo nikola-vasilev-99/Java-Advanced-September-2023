@@ -16,10 +16,8 @@ public class EX6_FixEmails {
             String name = input;
             String email = scanner.nextLine();
             String emailType = "";
-            for (int i = email.length() - 3; i < email.length(); i++) {
-                emailType += email.toLowerCase().charAt(i) + "";
-            }
-            if (!emailType.equals(".uk") && !emailType.equals(".us") && !emailType.equals("com")) {
+
+            if (!email.endsWith("uk") && !email.endsWith("us") && !email.endsWith("com")) {
                 emailsMap.put(name, email);
             }
             input = scanner.nextLine();
