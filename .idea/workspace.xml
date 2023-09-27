@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/EX8_UserLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/SortingMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/SortingMaps2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,20 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX8_UserLogs">
-    <configuration name="EX3_PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX3_PeriodicTable" />
-      <module name="Java-Advanced-September-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit3_SetsAndMaps.EX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="EX4_CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX4_CountSymbols" />
       <module name="Java-Advanced-September-2023" />
@@ -112,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortingMaps_CheatSheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.SortingMaps_CheatSheet" />
+      <module name="Java-Advanced-September-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit3_SetsAndMaps.EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingMaps_CheatSheet" />
         <item itemvalue="Application.EX8_UserLogs" />
         <item itemvalue="Application.EX5_Phonebook" />
         <item itemvalue="Application.EX4_CountSymbols" />
         <item itemvalue="Application.EX6_FixEmails" />
-        <item itemvalue="Application.EX3_PeriodicTable" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694601229823</updated>
-    </task>
-    <task id="LOCAL-00004" summary="nomessage">
-      <created>1694777652278</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1694777652278</updated>
     </task>
     <task id="LOCAL-00005" summary="exercise">
       <created>1694784961781</created>
@@ -474,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695724868243</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="-">
+      <created>1695738222021</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1695738222025</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
