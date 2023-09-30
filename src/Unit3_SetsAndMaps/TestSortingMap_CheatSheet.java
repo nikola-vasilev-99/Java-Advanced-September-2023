@@ -1,4 +1,4 @@
-package Unit3_SetsAndMaps.EX;
+package Unit3_SetsAndMaps;
 
 import java.util.Collections;
 import java.util.LinkedHashMap;

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/EX7_HandsOfCards.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/SortingMaps_CheatSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/SortingMaps_CheatSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/SortingMaps_CheatSheet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/SortingMaps_CheatSheet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/TestSortingMap_CheatSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit3_SetsAndMaps/TestSortingMap_CheatSheet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +50,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="EX4_CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX4_CountSymbols" />
-      <module name="Java-Advanced-September-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit3_SetsAndMaps.EX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX5_Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX5_Phonebook" />
+  <component name="RunManager" selected="Application.EX7_HandsOfCards">
+    <configuration name="EX7_HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.EX7_HandsOfCards" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
@@ -77,7 +69,7 @@
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit3_SetsAndMaps.EX.*" />
+          <option name="PATTERN" value="Unit3_SetsAndMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +78,11 @@
       </method>
     </configuration>
     <configuration name="SortingMaps_CheatSheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.SortingMaps_CheatSheet" />
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.SortingMaps_CheatSheet" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit3_SetsAndMaps.EX.*" />
+          <option name="PATTERN" value="Unit3_SetsAndMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +91,20 @@
       </method>
     </configuration>
     <configuration name="TestSortingMap_CheatSheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.TestSortingMap_CheatSheet" />
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.TestSortingMap_CheatSheet" />
+      <module name="Java-Advanced-September-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit3_SetsAndMaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit3_SetsAndMaps.EX.test" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX7_HandsOfCards" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.TestSortingMap_CheatSheet" />
         <item itemvalue="Application.SortingMaps_CheatSheet" />
         <item itemvalue="Application.EX8_UserLogs" />
-        <item itemvalue="Application.EX5_Phonebook" />
-        <item itemvalue="Application.EX4_CountSymbols" />
       </list>
     </recent_temporary>
   </component>
@@ -129,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694601229823</updated>
-    </task>
-    <task id="LOCAL-00006" summary="exercise">
-      <created>1694787031530</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1694787031530</updated>
     </task>
     <task id="LOCAL-00007" summary="grade 100/100">
       <created>1694792376017</created>
@@ -473,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695805299092</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="-">
+      <created>1695805872065</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1695805872065</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,6 +508,16 @@
           <url>file://$PROJECT_DIR$/src/Unit2_MultidimensionalArrays/EX/EX2_MatrixOfPalindromes.java</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/EX7_HandsOfCards.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
