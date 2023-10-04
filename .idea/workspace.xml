@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit5_FunctionalProgramming/LAB/EX3_CountUppercaseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit5_FunctionalProgramming/LAB/EX4_AddVAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit5_FunctionalProgramming/LAB/EX5_FilterByAGe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX1_CarInfo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX1_CarInfo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.EX2_SumNumbers">
-    <configuration name="EX1_ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit4_StreamsFilesAndDirectories.LAB.EX1_ReadFile" />
-      <module name="Java-Advanced-September-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit4_StreamsFilesAndDirectories.LAB.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EX1_SortedEvenNumber_withFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.EX1_SortedEvenNumber_withFunction" />
       <module name="Java-Advanced-September-2023" />
@@ -98,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.test" />
+    <configuration name="EX4_AddVAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.EX4_AddVAT" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.EX1_CarInfo.Main" />
+      <module name="Java-Advanced-September-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit6_DefiningClasses.LAB.EX1_CarInfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EX4_AddVAT" />
         <item itemvalue="Application.EX2_SumNumbers" />
         <item itemvalue="Application.EX1_SortedEvenNumber_withFunction" />
         <item itemvalue="Application.EX1_SortedEvenNumbers" />
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.EX1_ReadFile" />
       </list>
     </recent_temporary>
   </component>
@@ -129,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694601229823</updated>
-    </task>
-    <task id="LOCAL-00011" summary="grade 0/100">
-      <created>1694848496477</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1694848496477</updated>
     </task>
     <task id="LOCAL-00012" summary=".">
       <created>1694850985878</created>
@@ -473,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696235833691</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="-">
+      <created>1696239992711</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1696239992712</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
