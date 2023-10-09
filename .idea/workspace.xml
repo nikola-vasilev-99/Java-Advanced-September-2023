@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit5_FunctionalProgramming/LAB/EX4_AddVAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit5_FunctionalProgramming/LAB/EX5_FilterByAGe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX1_CarInfo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX1_CarInfo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX3_SpeedRacing/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX3_SpeedRacing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX2_CarConstructors/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX2_CarConstructors/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX3_BankAccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX3_BankAccount/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +50,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="EX1_SortedEvenNumber_withFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.EX1_SortedEvenNumber_withFunction" />
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.EX2_CarConstructors.Main" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit5_FunctionalProgramming.LAB.*" />
+          <option name="PATTERN" value="Unit6_DefiningClasses.LAB.EX2_CarConstructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX1_SortedEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.EX1_SortedEvenNumbers" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.test.Main" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit5_FunctionalProgramming.LAB.*" />
+          <option name="PATTERN" value="Unit6_DefiningClasses.LAB.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX2_SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.EX2_SumNumbers" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.EX3_BankAccount.Main" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit5_FunctionalProgramming.LAB.*" />
+          <option name="PATTERN" value="Unit6_DefiningClasses.LAB.EX3_BankAccount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX4_AddVAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit5_FunctionalProgramming.LAB.EX4_AddVAT" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.EX.EX3_SpeedRacing.Main" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit5_FunctionalProgramming.LAB.*" />
+          <option name="PATTERN" value="Unit6_DefiningClasses.EX.EX3_SpeedRacing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EX4_AddVAT" />
-        <item itemvalue="Application.EX2_SumNumbers" />
-        <item itemvalue="Application.EX1_SortedEvenNumber_withFunction" />
-        <item itemvalue="Application.EX1_SortedEvenNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694601229823</updated>
-    </task>
-    <task id="LOCAL-00012" summary=".">
-      <created>1694850985878</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1694850985878</updated>
     </task>
     <task id="LOCAL-00013" summary="grade 100/100">
       <created>1694857073974</created>
@@ -477,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696239992712</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="-">
+      <created>1696422191120</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1696422191120</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,6 +523,16 @@
           <url>file://$PROJECT_DIR$/src/Unit3_SetsAndMaps/EX/EX7_HandsOfCards.java</url>
           <line>18</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/test/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX3_SpeedRacing/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
