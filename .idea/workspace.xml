@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1d1df5-3599-4e62-bd24-e5f79e27d9c0" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX3_SpeedRacing/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX3_SpeedRacing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX2_CarConstructors/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX2_CarConstructors/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX3_BankAccount/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/LAB/EX3_BankAccount/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX1_OpinionPoll/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX1_OpinionPoll/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit6_DefiningClasses/EX/EX5_CarSalesman/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,27 +50,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/03. SoftUni-Students-Skeleton" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.EX2_CarConstructors.Main" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Unit6_DefiningClasses.LAB.EX2_CarConstructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.test.Main" />
-      <module name="Java-Advanced-September-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unit6_DefiningClasses.LAB.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +92,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.LAB.EX1_CarInfo.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.EX.EX5_CarSalesman.Main" />
       <module name="Java-Advanced-September-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unit6_DefiningClasses.LAB.EX1_CarInfo.*" />
+          <option name="PATTERN" value="Unit6_DefiningClasses.EX.EX5_CarSalesman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unit6_DefiningClasses.EX.EX1_OpinionPoll.Main" />
+      <module name="Java-Advanced-September-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unit6_DefiningClasses.EX.EX1_OpinionPoll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694601229823</updated>
-    </task>
-    <task id="LOCAL-00013" summary="grade 100/100">
-      <created>1694857073974</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1694857073974</updated>
     </task>
     <task id="LOCAL-00014" summary="grade 100/100">
       <created>1694858571970</created>
@@ -483,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696422191120</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="-">
+      <created>1696840201502</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1696840201502</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
